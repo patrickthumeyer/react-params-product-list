@@ -12,19 +12,17 @@ function App() {
       <Router>
         <Switch>
           <Route
-            exact
-            path="https://patrickthumeyer.github.io/react-params-product-list/"
-            component={Home}
+            path="https://patrickthumeyer.github.io/react-params-product-list/products/:slug"
+            component={DetailsPage}
           ></Route>
           <Route
-            exact
             path="https://patrickthumeyer.github.io/react-params-product-list/products"
             component={Products}
           ></Route>
           <Route
             exact
-            path="https://patrickthumeyer.github.io/react-params-product-list/products/:slug"
-            component={DetailsPage}
+            path="https://patrickthumeyer.github.io/react-params-product-list/"
+            component={Home}
           ></Route>
         </Switch>
       </Router>
