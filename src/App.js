@@ -11,9 +11,21 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route exact path="/" component={Home}></Route>
-          <Route exact path="/products" component={Products}></Route>
-          <Route exact path="/products/:slug" component={DetailsPage}></Route>
+          <Route
+            exact
+            path="https://patrickthumeyer.github.io/react-params-product-list/"
+            component={Home}
+          ></Route>
+          <Route
+            exact
+            path="https://patrickthumeyer.github.io/react-params-product-list/products"
+            component={Products}
+          ></Route>
+          <Route
+            exact
+            path="https://patrickthumeyer.github.io/react-params-product-list/products/:slug"
+            component={DetailsPage}
+          ></Route>
         </Switch>
       </Router>
     </div>
