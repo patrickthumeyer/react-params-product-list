@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-params-product-list/static/css/main.b28aef8e.chunk.css",
-    "main.js": "/react-params-product-list/static/js/main.2285b005.chunk.js",
-    "main.js.map": "/react-params-product-list/static/js/main.2285b005.chunk.js.map",
-    "runtime-main.js": "/react-params-product-list/static/js/runtime-main.e98837e0.js",
-    "runtime-main.js.map": "/react-params-product-list/static/js/runtime-main.e98837e0.js.map",
-    "static/js/2.bd5e4762.chunk.js": "/react-params-product-list/static/js/2.bd5e4762.chunk.js",
-    "static/js/2.bd5e4762.chunk.js.map": "/react-params-product-list/static/js/2.bd5e4762.chunk.js.map",
-    "index.html": "/react-params-product-list/index.html",
-    "precache-manifest.0fba5a214474b46b299ddcb863f5bc08.js": "/react-params-product-list/precache-manifest.0fba5a214474b46b299ddcb863f5bc08.js",
-    "service-worker.js": "/react-params-product-list/service-worker.js",
-    "static/css/main.b28aef8e.chunk.css.map": "/react-params-product-list/static/css/main.b28aef8e.chunk.css.map",
-    "static/js/2.bd5e4762.chunk.js.LICENSE.txt": "/react-params-product-list/static/js/2.bd5e4762.chunk.js.LICENSE.txt",
-    "static/media/arrow-down.svg": "/react-params-product-list/static/media/arrow-down.958a82bf.svg",
-    "static/media/products.css": "/react-params-product-list/static/media/arrow-up.48762eb4.svg",
-    "static/media/App.css": "/react-params-product-list/static/media/arrow.713fe29d.svg"
+    "main.css": "/static/css/main.be714ce8.chunk.css",
+    "main.js": "/static/js/main.bf06c126.chunk.js",
+    "main.js.map": "/static/js/main.bf06c126.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cbfb10c8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cbfb10c8.js.map",
+    "static/js/2.bd5e4762.chunk.js": "/static/js/2.bd5e4762.chunk.js",
+    "static/js/2.bd5e4762.chunk.js.map": "/static/js/2.bd5e4762.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e7735d7be7f949895b74b043393582b0.js": "/precache-manifest.e7735d7be7f949895b74b043393582b0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.be714ce8.chunk.css.map": "/static/css/main.be714ce8.chunk.css.map",
+    "static/js/2.bd5e4762.chunk.js.LICENSE.txt": "/static/js/2.bd5e4762.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.958a82bf.svg",
+    "static/media/products.css": "/static/media/arrow-up.48762eb4.svg",
+    "static/media/App.css": "/static/media/arrow.713fe29d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e98837e0.js",
+    "static/js/runtime-main.cbfb10c8.js",
     "static/js/2.bd5e4762.chunk.js",
-    "static/css/main.b28aef8e.chunk.css",
-    "static/js/main.2285b005.chunk.js"
+    "static/css/main.be714ce8.chunk.css",
+    "static/js/main.bf06c126.chunk.js"
   ]
 }
