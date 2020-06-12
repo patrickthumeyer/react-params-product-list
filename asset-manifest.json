@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-params-product-list/static/css/main.b28aef8e.chunk.css",
+    "main.css": "/react-params-product-list/static/css/main.dd0bd22b.chunk.css",
     "main.js": "/react-params-product-list/static/js/main.d386cb73.chunk.js",
     "main.js.map": "/react-params-product-list/static/js/main.d386cb73.chunk.js.map",
     "runtime-main.js": "/react-params-product-list/static/js/runtime-main.e98837e0.js",
@@ -8,9 +8,9 @@
     "static/js/2.bd5e4762.chunk.js": "/react-params-product-list/static/js/2.bd5e4762.chunk.js",
     "static/js/2.bd5e4762.chunk.js.map": "/react-params-product-list/static/js/2.bd5e4762.chunk.js.map",
     "index.html": "/react-params-product-list/index.html",
-    "precache-manifest.5cf2c3d81c060d3a777f338317bcd3f2.js": "/react-params-product-list/precache-manifest.5cf2c3d81c060d3a777f338317bcd3f2.js",
+    "precache-manifest.bc130d213b597ed901351b14f2957763.js": "/react-params-product-list/precache-manifest.bc130d213b597ed901351b14f2957763.js",
     "service-worker.js": "/react-params-product-list/service-worker.js",
-    "static/css/main.b28aef8e.chunk.css.map": "/react-params-product-list/static/css/main.b28aef8e.chunk.css.map",
+    "static/css/main.dd0bd22b.chunk.css.map": "/react-params-product-list/static/css/main.dd0bd22b.chunk.css.map",
     "static/js/2.bd5e4762.chunk.js.LICENSE.txt": "/react-params-product-list/static/js/2.bd5e4762.chunk.js.LICENSE.txt",
     "static/media/arrow-down.svg": "/react-params-product-list/static/media/arrow-down.958a82bf.svg",
     "static/media/products.css": "/react-params-product-list/static/media/arrow-up.48762eb4.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.e98837e0.js",
     "static/js/2.bd5e4762.chunk.js",
-    "static/css/main.b28aef8e.chunk.css",
+    "static/css/main.dd0bd22b.chunk.css",
     "static/js/main.d386cb73.chunk.js"
   ]
 }
