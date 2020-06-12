@@ -9,7 +9,7 @@ import DetailsPage from "./pages/detailsPage/detailsPage";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/react-params-product-list">
         <Switch>
           <Route path="/products/:slug" component={DetailsPage}></Route>
           <Route path="/products" component={Products}></Route>

@@ -7,6 +7,12 @@
   color: black;
 }
 
+ul:last-child {
+  border-bottom: none;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
 ul {
   margin-bottom: 50px;
 }
